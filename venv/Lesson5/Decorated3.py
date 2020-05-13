@@ -27,3 +27,4 @@ def make_shoes(func):
 def out():
     print("我出門了")
 out()
+##

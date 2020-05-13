@@ -4,4 +4,4 @@ def message(text):
         print(text)
     return print_message() # 有括號會直接執行
 
-m1 = message("Hello1")
+m1 = message("Hello123")
